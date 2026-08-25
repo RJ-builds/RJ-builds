@@ -52,12 +52,6 @@ Building practical applications with Python while exploring AI, Machine Learning
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=RJ-builds&layout=compact&theme=tokyonight&title_color=67e8f9&icon_color=67e8f9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RJ-builds&bg_color=00000000&color=67e8f9&line=67e8f9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ### 🚀 Featured Projects
 
 <table>
