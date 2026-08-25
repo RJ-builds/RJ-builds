@@ -65,4 +65,3 @@ Building practical applications with Python while exploring AI, Machine Learning
 🧮 **[Basic Calculator](https://github.com/RJ-builds/Basic-Calculator)** — A Python calculator demonstrating functions, lambda expressions and basic programming concepts.
 
 ---
-<p align="center"><i> Made with ❤️ by <a href="https://github.com/RJ-builds">RJ-builds</a></i></p>
