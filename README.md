@@ -60,8 +60,31 @@ Building practical applications with Python while exploring AI, Machine Learning
 
 ### 🚀 Featured Projects
 
-🤖 **[FeelBot](https://github.com/RJ-builds/FeelBot-AI)** — AI-powered chatbot built with Python and Flask, focused on conversational interaction and mood-aware features.
-
-🧮 **[Basic Calculator](https://github.com/RJ-builds/Basic-Calculator)** — A Python calculator demonstrating functions, lambda expressions and basic programming concepts.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 FeelBot AI</h3>
+      <p align="center">
+        An AI-powered chatbot built with Python and Flask that delivers conversational responses with an interactive web interface.
+      </p>
+      <p align="center">
+        <a href="https://github.com/RJ-builds/FeelBot-AI">
+          <img src="https://img.shields.io/badge/View_Project-67E8F9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧮 Basic Calculator</h3>
+      <p align="center">
+        A Python calculator using functions and lambda expressions to perform arithmetic operations with clean logic.
+      </p>
+      <p align="center">
+        <a href="https://github.com/RJ-builds/Basic-Calculator">
+          <img src="https://img.shields.io/badge/View_Project-A371F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
